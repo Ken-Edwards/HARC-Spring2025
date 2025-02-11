@@ -6,6 +6,6 @@ int main()
 
 // The typcial starter C program
 
-    printf("Hello World \n");
+    printf("Hello World, its a beautiful day !\n");
     return 0;
 }
